@@ -1,7 +1,7 @@
 # Sum of first & last digit
 
 # Reading number
-number  = input("Enter number: ")
+number  = input("Enter number here: ")
 
 # Reversing number
 reverse = number[::-1]
